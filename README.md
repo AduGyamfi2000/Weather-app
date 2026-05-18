@@ -2,6 +2,20 @@
 
 A global weather application built with Dart and Flutter.
 
+## Screenshots
+
+### Default State
+![App launch — search field and quick-access city chips](assets/screenshots/01_default_state.png)
+
+### Loading State
+![Fetching weather data — circular progress indicator](assets/screenshots/02_loading_state.png)
+
+### Weather Results
+![Live weather card showing temperature, humidity, wind speed, pressure and coordinates](assets/screenshots/03_weather_results.png)
+
+### Error State
+![Error handling — city not found and empty search validation](assets/screenshots/04_error_state.png)
+
 ## Features
 
 - Search weather for any city worldwide
